@@ -1,5 +1,5 @@
 import "i18n"
-import "styles/taiwindcss.css"
+import "styles/tailwindcss.css"
 import "styles/globals.css"
 import { useEffect } from "react"
 import getConfig from "next/config"
